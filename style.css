@@ -1,3 +1,9 @@
 body{
     background-color: antiquewhite;
 }
+
+.p{
+    font-family: Arial;
+    color: brown;
+    text-align: center;
+}
